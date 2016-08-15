@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <%- partial('_partial/head.ejs') %>
+</head>
+
+<body>
+  <div class="wrapper">
+
+    <!-- Begin Navigation -->
+      <%- partial('_partial/layout-navigation.ejs') %>
+    <!-- End Navigation -->
+
+    <!-- Begin Body include -->
+    <%- body %>
+    <!-- End Body include -->
+
+    <!-- Begin Footer -->
+      <%- partial('_partial/layout-footer.ejs') %>
+    <!-- End Footer -->
+
+  </div> <!-- End .wrapper -->
+</body>
+
+  <!-- Scripts -->
+    <%- js('js/jquery.min.js') %>
+    <%- js('js/bootstrap.min.js') %>
+    <%- js('js/material.min.js') %>
+
+    <!--	Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+    <%- js('js/nouislider.min.js') %>
+
+    <!--	Plugin for the Datepicker, full documentation here: http://www.eyecon.ro/bootstrap-datepicker/ -->
+    <%- js('js/bootstrap-datepicker.js') %>
+
+    <!--	Plugin for Select Form control, full documentation here: https://github.com/FezVrasta/dropdown.js -->
+    <%- js('js/jquery.dropdown.js') %>
+
+    <!--	Plugin for Tags, full documentation here: http://xoxco.com/projects/code/tagsinput/  -->
+    <%- js('js/jquery.tagsinput.js') %>
+
+    <!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
+    <%- js('js/jasny-bootstrap.min.js') %>
+
+    <!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
+    <%- js('js/material-kit.js') %>
+
+    <!-- Plugin for InstaFeed, full documentation at http://instafeed.js -->
+    <%- js('js/instafeed.min.js') %>
+    <script type="text/javascript">
+      var feed = new Instafeed({
+          get: 'user',
+          userId: '2111754365',
+          clientId: '3237a68725e54852a7f3f7bb1a246a3b',
+  				accessToken: '2111754365.3237a68.d56e80f70ff84bc8a36acf0628b6b13d',
+  				limit: 8,
+  				sortBy: 'random',
+  				template: '<a href="{{link}}" target="_blank" /><img src="{{image}}" class="img img-raised img-rounded" alt="{{caption}}" /></a>'
+      });
+      feed.run();
+    </script>
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57af7712e2e8c59f"></script>
+
+    <!-- Google Analytics -->
+    <%- partial('_partial/layout-google-analytics.ejs') %>
+
+
+  <!-- End Scripts -->
+
+</html>

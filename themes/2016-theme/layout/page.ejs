@@ -1,0 +1,101 @@
+<%
+var masthead = 'masthead.jpg';
+if (page.masthead) {
+  var masthead = page.masthead
+}
+%>
+<div class="page-header header-filter" data-parallax="active" style="background-image: url('<%- url_for('images/' + masthead) %>');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 text-center">
+        <% if (page.title) { %>
+    				<h1 class="title"><%- page.title %></h1>
+    			<% } if (page.subtitle) { %>
+    				<h4><%- page.subtitle %></h4>
+    			<% } %>
+      </div>
+    </div>
+  </div>
+</div> <!-- end .page-header -->
+
+<div class="main main-raised">
+  <div class="container">
+
+    <div class="section section-text">
+      <% if (typeof(page.links) !== 'undefined' && page.links !== null) { %>
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <% for ( var i in page.links) { %>
+          <a href="<%- page.links[i] %>"><button class="btn btn-primary btn-round"><%- i %><div class="ripple-container"></div></button></a>
+          <% } %>
+          <hr />
+
+        </div>
+      </div> <!-- end .row -->
+      <% } %>
+
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <%- page.content %>
+        </div>
+      </div>
+
+
+        <% if (typeof(page.sponsors) !== 'undefined' && page.sponsors !== null) { %>
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <div class="section section-sponsors">
+              <h3>Activity Sponsors</h3>
+
+
+          <% for ( var i in page.sponsors) {
+            for ( var j = 0, sponsors = site.data.sponsors; j < sponsors.length; j++) {
+              if ( page.sponsors[i].toLowerCase() == sponsors[j].name.toLowerCase() ) { %>
+                <div class="col-md-4 col-xs-6">
+                  <% if (typeof(sponsors[j].url) !== 'undefined' && sponsors[j].url !== null ) { %>
+                  <a href="<%- sponsors[j].url %>" target="_blank">
+                  <% } %>
+                  <div class="card">
+                    <div class="sponsor-container">
+                      <div class="sponsor-content">
+                        <div class="sponsor-table">
+                          <div class="sponsor-table-cell">
+                            <% if (typeof(sponsors[j].logo) !== 'undefined' && sponsors[j].logo !== null ) { %>
+                              <%- image_tag('images/sponsors/' + sponsors[j].logo) %>
+                            <% } else { %>
+                              <%- page.sponsors[i] %>
+                            <% } %>
+                          </div> <!-- end .table-cell -->
+                        </div> <!-- end .table -->
+                      </div> <!-- end .content-->
+                    </div> <!-- end .container -->
+                  </div> <!-- end .card -->
+                  <% if (typeof(sponsors[j].url) !== 'undefined' && sponsors[j].url !== null ) { %>
+                  </a>
+                  <% } %>
+                  </div>
+                <% } %>
+              <% } %>
+          <% } %>
+        </div>
+      </div>
+    </div> <!-- end .row -->
+    <% } %>
+
+    </div> <!-- end .section .section-text -->
+
+    <div class="section section-blog-info">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <hr />
+          <!-- Go to www.addthis.com/dashboard to customize your tools -->
+          <div class="addthis_sharing_toolbox"></div>
+
+        </div>
+      </div>
+    </div> <!-- end .section .section-blog-info -->
+
+  </div> <!-- end .container -->
+</div> <!-- end .main .main-raised -->
+
+<%- partial('_partial/common-feature.ejs') %>

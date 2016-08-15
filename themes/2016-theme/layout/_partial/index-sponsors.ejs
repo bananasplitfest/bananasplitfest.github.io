@@ -1,0 +1,48 @@
+<% var sponsors = site.data.sponsors %>
+
+<div id="cards" class="cd-section">
+  <div class="section-gray section-sponsors">
+    <div class="cards">
+
+      <div class="container">
+          <div class="title">
+              <h2>Event Sponsors</h2>
+          </div>
+
+          <div class="row">
+            <% for(var i in sponsors) { %>
+              <div class="col-md-2 col-sm-3 col-xs-4">
+                <% if (typeof(sponsors[i].url) !== 'undefined' && sponsors[i].url !== null ) { %>
+                <a href="<%- sponsors[i].url %>" target="_blank">
+                <% } %>
+                <div class="card">
+                      <div class="sponsor-container">
+                        <div class="sponsor-content">
+                          <div class="sponsor-table">
+                            <div class="sponsor-table-cell">
+                              <% if (typeof(sponsors[i].logo) !== 'undefined' && sponsors[i].logo !== null ) { %>
+                                  <%- image_tag('images/sponsors/' + sponsors[i].logo) %>
+                              <% } else { %>
+                                <%- sponsors[i].name %>
+                              <% } %>
+                            </div> <!-- end .table-cell -->
+                          </div> <!-- end .table -->
+                        </div> <!-- end .content-->
+                      </div> <!-- end .container -->
+                    </div> <!-- end .card -->
+                    <% if (typeof(sponsors[i].url) !== 'undefined' && sponsors[i].url !== null ) { %>
+                    </a>
+                    <% } %>
+              </div> <!-- end .col-md-2 -->
+            <% } %>
+
+          </div> <!-- end .row -->
+
+
+
+
+        </div> <!-- end .container -->
+      </div> <!-- end .cards -->
+
+  </div> <!-- end .section-gray -->
+</div> <!-- end .cd-section -->

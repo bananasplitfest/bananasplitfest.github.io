@@ -1,0 +1,148 @@
+- name: "Valley Dairy Restaurants"
+  url: http://www.valleydairy.net/
+  logo: valley-dairy.png
+  size: 1
+- name: "Excela Health"
+  url: http://excela.org
+  logo: excela.png
+  size: 1
+- name: "S&T Bank"
+  url: http://stbank.com
+  logo: STbank.png
+  size: 1
+- name: "City of Latrobe"
+  url: http://cityoflatrobe.com
+  logo: city-of-latrobe.png
+  size: 1
+- name: "McFeely-Rogers Foundation"
+  logo:
+  size: 1
+- name: "Greater Latrobe - Laurel Valley Chamber of Commerce"
+  url: http://gllv.org
+  logo: gllv-chamber-horizontal.jpg
+  size: 1
+- name: "Sendell Motors"
+  url: http://sendell.com
+  logo: sendell.png
+  size: 1
+- name: "Springhill Suites by Marriott Latrobe"
+  url: http://www.springillsuites.com
+  logo: springhill-suites.png
+  size: 2
+- name: "Gutchess Hardwoods"
+  url: http://www.gutchess.com/
+  logo: gutchess.png
+  size: 2
+- name: "Latrobe Community Revitalization Program"
+  url: http://www.latroberevitalization.org
+  logo:
+  size: 2
+- name: "Zone 6"
+  url: http://zone6.online
+  logo: zone6.png
+  size: 2
+- name: "Citizen's Fiber"
+  url: http://www.citizensfiber.com/
+  logo:
+  size: 2
+- name: "MedExpress"
+  url: http://medexpress.com
+  logo: medexpress.png
+  size: 3
+- name: "Saint Vincent College"
+  url: http://stvincent.edu
+  logo: st-vincent.png
+  size: 3
+- name: "Medicine Shoppe"
+  url: #
+  logo: medicine-shoppe.png
+  size: 3
+- name: "Sarah Crispin-Thomas State Farm"
+  url: #
+  logo: state-farm.png
+  size: 3
+- name: "Colour Magic"
+  url: #
+  logo: colour-magic.png
+  size: 3
+- name: "Huss Chiropractic"
+  url: #
+  logo: huss.png
+  size: 3
+- name: "Westmoreland County Community College"
+  url: #
+  logo:
+  size: 3
+- name: "First Commonwealth Bank"
+  url: http://fcbanking.com
+  logo: first-commonwealth.png
+  size: 3
+- name: "Pace Industries Airo Division"
+  url: #
+  logo: pace.png
+  size: 3
+- name: "Forever Media"
+  url: #
+  logo: forever-media.png
+  size: 3
+- name: "Froggy 95"
+  url: #
+  logo:
+  size: 3
+- name: "100.7 Star"
+  url: http://starpittsburgh.com
+  logo:
+  size: 3
+- name: "KDKA 1020"
+  url: #
+  logo:
+  size: 3
+- name: "The Eyeglass Shoppe"
+  url: #
+  logo:
+  size: 3
+- name: "Latrobe Bulletin"
+  url: #
+  logo:
+  size: 3
+- name: "Grand Canyon University"
+  url: #
+  logo: grand-canyon-university.png
+  size: 4
+- name: "Commercial Bank & Trust of PA"
+  url: http://cbthebank.com
+  logo: commercial-bank-trust.png
+  size: 4
+- name: "Eat 'n Park"
+  url: #
+  logo: eat-n-park.png
+  size: 4
+- name: "Wildcat Championship Belts"
+  url:
+  logo: wildcat-belts.png
+  size: 4
+- name: "Mullen Refrigeration"
+  url: #
+  logo:
+  size: 4
+- name: "LJ Aviation"
+  url: #
+  logo:
+  size: 4
+- name: "Lesco Federal Credit Union"
+  url: #
+  logo:
+  size: 4
+- name: "Brian Panichelle Agency - Nationwide"
+  url: http://panichelle.com
+  logo:
+  size: 4
+- name: "UPMC Centers for Rehab Services"
+  url: http://www.upmc.com/Services/rehab/crs/Pages/default.aspx
+  logo: upmc.png
+  size: 4
+
+- name: "Adelphoi Village"
+  url: #
+  logo: adelphoi.png
+  size: 4

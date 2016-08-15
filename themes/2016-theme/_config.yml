@@ -1,0 +1,15 @@
+post_asset_folder: true
+
+navfixed: true
+excerpt_link: Read More...
+
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# Social and OpenGraph Tags
+twitter: bananasplitfest
+fb_admins: 168300678
+fb_app_id: 455262247965728
+google_analytics: UA-63681491-1
