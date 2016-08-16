@@ -22,7 +22,7 @@ script:
 - hexo generate
 
 after_success:
-- hexo deploy --silent
+- hexo deploy
 
 env:
   global:
