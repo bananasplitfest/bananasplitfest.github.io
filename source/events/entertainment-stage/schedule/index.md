@@ -1,11 +1,14 @@
 ---
-title: Sendell Motors <strong>Entertainment Stage</strong>
+title: Sendell Motors <strong>Entertainment Stage</strong> Schedule
 date: 2016-05-05 17:36:58
 sponsors:
 - "Sendell Motors"
 ---
 
 [Friday](#friday) | [Saturday](#saturday) | [Sunday](#sunday)
+
+
+###### [Weekend schedule of events](/schedule)
 
 <a name="friday"></a>
 
@@ -34,6 +37,8 @@ sponsors:
   </tbody>
 </table>
 {% endraw %}
+
+###### [Weekend schedule of events](/schedule)
 
 <a name="saturday"></a>
 
@@ -74,6 +79,8 @@ sponsors:
   </tbody>
 </table>
 {% endraw %}
+
+###### [Weekend schedule of events](/schedule)
 
 <a name="sunday"></a>
 

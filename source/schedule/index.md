@@ -1,10 +1,12 @@
 ---
 title: Schedule
 date: 2016-08-14 11:09:48
-sidebar: false
+subtitle: "So much to see. So much to do. Don't miss a thing"
 ---
 
 [Friday](#friday) | [Saturday](#saturday) | [Sunday](#sunday)
+
+###### There's more to see at the [Sendell Motors Enterainment Stage Schedule](/entertainment-schedule)
 
 <a name="friday"></a>
 
@@ -45,6 +47,8 @@ sidebar: false
   </tbody>
 </table>
 {% endraw %}
+
+###### There's more to see at the [Sendell Motors Enterainment Stage Schedule](/entertainment-schedule)
 
 <a name="saturday"></a>
 
@@ -100,6 +104,8 @@ sidebar: false
   </tbody>
 </table>
 {% endraw %}
+
+###### There's more to see at the [Sendell Motors Enterainment Stage Schedule](/entertainment-schedule)
 
 <a name="sunday"></a>
 
