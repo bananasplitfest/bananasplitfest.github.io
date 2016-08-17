@@ -5,6 +5,7 @@ sidebar: false
 ---
 ## Schedule
 The [full schedule of events](/schedule) is available!
+Entertainment is lined up [all weekend](/events/entertainment-stage/schedule) at the Sendell Motors Entertainment Stage too.
 
 ## Parking
 Parking downtown is free (thank you City of Latrobe!). This included metered lots and the parking garage.

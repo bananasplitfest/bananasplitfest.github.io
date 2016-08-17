@@ -1,145 +1,129 @@
 - name: "Valley Dairy Restaurants"
   url: http://www.valleydairy.net/
   logo: valley-dairy.png
-  size: 1
 - name: "Excela Health"
   url: http://excela.org
   logo: excela.png
-  size: 1
 - name: "S&T Bank"
   url: http://stbank.com
   logo: STbank.png
-  size: 1
 - name: "City of Latrobe"
   url: http://cityoflatrobe.com
   logo: city-of-latrobe.png
-  size: 1
 - name: "Greater Latrobe - Laurel Valley Chamber of Commerce"
   url: http://gllv.org
-  logo: gllv-chamber-horizontal.jpg
-  size: 1
+  logo: gllv-chamber-horizontal.png
 - name: "Sendell Motors"
   url: http://sendell.com
   logo: sendell.png
-  size: 1
+- name: "Xcoal"
+  url: http://www.xcoal.com/
+  logo: xcoal.png
+- name: "Arnold Palmer Motors"
+  url: http://www.arnoldpalmermotors.net/
+  logo: arnold-palmer-motors.png
 - name: "Springhill Suites by Marriott Latrobe"
   url: http://www.springhillsuites.com
   logo: springhill-suites.png
-  size: 2
 - name: "Gutchess Hardwoods"
   url: http://www.gutchess.com/
   logo: gutchess.png
-  size: 2
 - name: "Latrobe Community Revitalization Program"
   url: http://www.latroberevitalization.org
   logo: latrobe-revitalization.png
-  size: 2
 - name: "Zone 6"
   url: http://zone6.online
   logo: zone6.png
-  size: 2
+- name: "Schultheis Electric"
+  url: http://www.tsbinc.net/
+  logo: schultheis-electric.png
+- name: "Trib Total Media"
+  url: triblive.com
+  logo: trib.png
 - name: "Citizen's Fiber"
   url: http://www.citizensfiber.com/
   logo: citizens-fiber.png
-  size: 2
+- name: "Westmoreland County Airport"
+  url: http://www.palmerairport.com/
+  logo: westmoreland-airport.png
 - name: "MedExpress"
   url: http://medexpress.com
   logo: medexpress.png
-  size: 3
 - name: "Saint Vincent College"
   url: http://stvincent.edu
   logo: st-vincent.png
-  size: 3
 - name: "Medicine Shoppe"
-  url: #
+  url: http://www.medicineshoppe.com/pharmacy-locations/pennsylvania/latrobe/home
   logo: medicine-shoppe.png
-  size: 3
 - name: "Sarah Crispin-Thomas State Farm"
-  url: #
+  url: http://sarahcrispinthomas.com/
   logo: state-farm.png
-  size: 3
 - name: "Colour Magic"
   url: http://colourmagicusa.com/
   logo: colour-magic.png
-  size: 3
 - name: "Huss Chiropractic"
   url: http://husschiropractic.com/
   logo: huss.png
-  size: 3
 - name: "Westmoreland County Community College"
   url: http://wccc.edu/
   logo: wccc.png
-  size: 3
 - name: "First Commonwealth Bank"
   url: http://fcbanking.com
   logo: first-commonwealth.png
-  size: 3
 - name: "Pace Industries Airo Division"
   url: http://paceind.com/location/airo-division/
   logo: pace.png
-  size: 3
 - name: "Forever Media"
-  url: #
+  url: http://www.foreverjohnstown.com/
   logo: forever-media.png
-  size: 3
 - name: "Froggy 95"
-  url: #
-  logo:
-  size: 3
+  url: http://www.foreverjohnstown.com/myfroggy95/
+  logo: froggy95.jpg
 - name: "100.7 Star"
-  url: http://starpittsburgh.com
-  logo:
-  size: 3
+  url: http://starpittsburgh.cbslocal.com/
+  logo: 1007-star-pittsburgh.png
 - name: "KDKA 1020"
-  url: #
-  logo:
-  size: 3
+  url: http://pittsburgh.cbslocal.com/
+  logo: kdka-1020.png
 - name: "The Eyeglass Shoppe"
   url: http://www.eyeglassshoppe.net/
   logo: eyeglass-shoppe.png
-  size: 3
 - name: "Latrobe Bulletin"
-  url: #
-  logo:
-  size: 3
+  url: http://www.latrobebulletinnews.com/
+  logo: latrobe-bulletin.gif
 - name: "Grand Canyon University"
   url: https://www.gcu.edu/
   logo: grand-canyon-university.png
-  size: 4
+- name: "Sam's Club"
+  url: http://samsclub.com
+  logo: sams-club.png
 - name: "Commercial Bank & Trust of PA"
   url: http://cbthebank.com
   logo: commercial-bank-trust.png
-  size: 4
 - name: "Eat 'n Park"
   url: http://www.eatnpark.com/
   logo: eat-n-park.png
-  size: 4
 - name: "Wildcat Championship Belts"
   url: http://www.wildcatbelts.com/
   logo: wildcat-belts.png
-  size: 4
 - name: "Mullen Refrigeration"
   url: http://www.mullenrefrigeration.com/
   logo: mullen.png
-  size: 4
 - name: "LJ Aviation"
-  url: #
-  logo:
-  size: 4
+  url: http://ljaviation.com/
+  logo: lj-aviation.png
 - name: "Lesco Federal Credit Union"
   url: http://www.lescofcu.com/
   logo: lesco.png
-  size: 4
 - name: "Brian Panichelle Agency - Nationwide"
   url: http://panichelle.com
   logo: nationwide-bp-insurance.png
-  size: 4
 - name: "UPMC Centers for Rehab Services"
   url: http://www.upmc.com/Services/rehab/crs/Pages/default.aspx
   logo: upmc.png
-  size: 4
-
 - name: "Adelphoi Village"
   url: http://adelphoivillage.org/
   logo: adelphoi.png
-  size: 4
+- name: "Lion's Club"
+  url: http://e-clubhouse.org/sites/latrobepa/
+  logo: lions-club.png
