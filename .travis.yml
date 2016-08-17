@@ -1,22 +1,29 @@
 language: node_js
+
 node_js:
 - '5'
+
 branches:
   only:
   - source
+
 before_install:
 - npm install -g hexo-cli
+
 before_script:
 - git config --global user.name 'Isaac McDaniel via Travis CI'
 - git config --global user.email 'isaac@zone6.online'
-- sed -i'' "s~git@github.com:bananasplitfest/bananasplitfest.github.io.git~https://${GH_TOKEN}:x-oauth-basic@github.com/bananasplitfest/bananasplitfest.github.io.git~"
-  _config.yml
+- sed -i'' "s~git@github.com:bananasplitfest/bananasplitfest.github.io.git~https://${GH_TOKEN}:x-oauth-basic@github.com/bananasplitfest/bananasplitfest.github.io.git~" _config.yml
+
 install:
 - npm install
+
 script:
 - hexo generate
+
 after_success:
 - hexo deploy --silent
+
 env:
   global:
     secure: l6ucbZn1c3EkVHeBTAKTnKJFNu/RjU5wJtqvYdmhpWPbwMUbyLDcar3BTbjrULsqTXg6sxtmKpzeTUTnfPEyGjAP3rdu1IQ+9eAkxwNZBGtZqkUc4jMnR5az8t/WxL9dqBcpU2yoYSW9BmiMLQYHG4iLj1RaRRbdCkUMsYWkXPxgecxn4XnfmMheaq2hG/MmGJ8CRLWlKyQQOIinbFQVbZpJj+wRV2zd+xP+bSpnQ5pBSUIEyQQMwridTkSKry6P1b0Il3M6KhrnSRJD6gvaFO5Vm94D1DJOKK2TvWhbbZKk/Rx+Jnvihmy51DOEq0LczcieF0TtZhBntQQCv2drjy8FiLZZfyBntEF1MENYzVIf7zkyMngo+aU863GyojCpP1ZYR2ZHLFloKRqE2sV6WSAITzkzo7dwJiKWIcVIblDLf7asylHgbs6NSJ6iyM2RdrnvJubWpmQQWgaNCVgMFPI070nWM+PlfW38U4COadYzlmMUoIYCDusjotTtfKLdQc1MsVJtqaFgtK1IRYbiXqKHDK+3F457+rviWEOpDXcSbCS0hmAXtGihQ9kVJMAOOAn+NgtCFVHxsjJ4TbGRNDR+DFd0PCyaCHHEBsplMs57vQRT3LL0u4c/y28WJ7M3spKLpwYT8KMaBNQn3t+U0bJKl9XR+KCtBoh5hahyxFc=
