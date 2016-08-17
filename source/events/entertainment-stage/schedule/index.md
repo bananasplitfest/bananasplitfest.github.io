@@ -63,10 +63,13 @@ sponsors:
       <td>2:30 PM</td><td>Deglua, Stouffer, Feliciani</td>
     </tr>
     <tr>
-      <td>4:00 PM</td><td>Gator Country</td>
+      <td>4:00 PM</td><td>The Rhoades Brothers Band</td>
     </tr>
     <tr>
       <td>5:30 PM</td><td>John Noble and the Murphy Band</td>
+    </tr>
+    <tr>
+      <td>7:15 PM</td><td>DJ Dark Shark</td>
     </tr>
   </tbody>
 </table>
@@ -95,6 +98,9 @@ sponsors:
     </tr>
     <tr>
       <td>1:30 PM</td><td>Miracle Elixr Show</td>
+    </tr>
+    <tr>
+      <td>2:30 PM</td><td>Swingin' Oldies with DJ Dark Shark</td>
     </tr>
     <tr>
       <td>3:30 PM</td><td>Mike Porembka's Polka Pals</td>
