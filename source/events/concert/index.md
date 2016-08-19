@@ -1,5 +1,5 @@
 ---
-title: S&T Bank presents <strong>Kellie Pickler</strong> Live
+title: S&T Bank presents Kellie Pickler Live
 subtitle: benefiting Blackburn Center
 date: 2016-05-05 17:28:45
 masthead: 'masthead-kellie-pickler.jpg'

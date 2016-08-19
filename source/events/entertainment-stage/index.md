@@ -1,5 +1,5 @@
 ---
-title: Sendell Motors <strong>Entertainment Stage</strong>
+title: Sendell Motors Entertainment Stage
 date: 2016-05-05 17:36:58
 links:
   Entertainment Schedule: ./schedule
