@@ -1,7 +1,6 @@
 ---
 title: History of the Split
 date: 2016-05-23 11:27:28
-sidebar: false
 ---
 Although others have claimed they are the home of the banana split, evidence shows that Latrobe is the top banana! For years the debate raged on, until historians came to the conclusion that the City of Latrobe was where the Banana Split was invented!
 

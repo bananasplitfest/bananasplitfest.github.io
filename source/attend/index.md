@@ -1,7 +1,6 @@
 ---
-title: Attend
+title: Attend the Celebration
 date: 2016-05-23 11:09:48
-sidebar: false
 ---
 ## Schedule
 The [full schedule of events](/schedule) is available!

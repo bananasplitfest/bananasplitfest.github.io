@@ -1,5 +1,6 @@
 ---
-title: Lion's Club <strong>Car Cruise</strong> presented by Sarah Crispin-Thomas State Farm Agency
+title: Lion's Club Car Cruise
+subtitle: presented by State Farm Agent Sarah Crispin-Thomas
 date: 2016-05-05 17:38:18
 sponsors:
 - "Lion's Club"

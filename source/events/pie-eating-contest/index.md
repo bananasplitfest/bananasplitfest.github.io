@@ -1,5 +1,5 @@
 ---
-title: Eat 'n Park <strong>Pie Eating Contest</strong> presented by Wildcat Belts
+title: Eat 'n Park Pie Eating Contest presented by Wildcat Belts
 date: 2016-05-05 17:35:39
 sponsors:
 - "Eat 'n Park"
