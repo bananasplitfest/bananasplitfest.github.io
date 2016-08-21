@@ -85,7 +85,7 @@
 - name: "KDKA 1020"
   url: http://pittsburgh.cbslocal.com/
   logo: kdka-1020.png
-- name: "The Eyeglass Shoppe"
+- name: "Eyeglass Shoppe"
   url: http://www.eyeglassshoppe.net/
   logo: eyeglass-shoppe.png
 - name: "Latrobe Bulletin"

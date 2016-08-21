@@ -1,7 +1,6 @@
 ---
 title: Colour Magic Color Dash
 subtitle: presented by St. Vincent College and Planet Fitness
-subtitle: Let the Color Move You
 date: 2016-05-05 17:33:41
 sponsors:
 - "Colour Magic"
