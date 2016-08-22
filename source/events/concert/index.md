@@ -9,7 +9,9 @@ links:
   Tickets: https://on.spingo.com/e/kellie_pickler_live_at_memorial_stadium
 ---
 
-## S&T Bank presents Kellie Pickler LIVE benefiting Blackburn Center with Saddle Up Band
+## S&T Bank presents Kellie Pickler LIVE benefiting Blackburn Center
+### Saddle Up Band with special guest Sarina Neal
+### Katelyn Rose
 
 ### Details
 August 27th, 2016  

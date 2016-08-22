@@ -102,7 +102,7 @@ subtitle: "So much to see. So much to do. Don't miss a thing"
       <td colspan="2">7:00 PM</td><td>S&T Bank presents <strong>Kellie Pickler Live</strong> benefiting Blackburn Center</td><td>Latrobe Memorial Stadium</td><td><a href="/events/concert" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
     <tr>
-      <td colspan="2">&nbsp;</td><td>A&S Indoor Pistol Range, Arnold Palmer Motors, and XCoal presents the <strong>Great American Fireworks Show</strong></td><td>Latrobe Memorial Stadium</td><td></td>
+      <td colspan="2">&nbsp;</td><td><strong>Great American Fireworks Show</strong></td><td>Latrobe Memorial Stadium</td><td></td>
     </tr>
   </tbody>
 </table>
