@@ -1,5 +1,5 @@
 ---
-title: MedExpress Outdoor Arena
+title: MedExpress Arena
 date: 2016-05-05 17:42:30
 sponsors:
 - "MedExpress"

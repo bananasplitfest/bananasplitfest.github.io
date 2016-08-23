@@ -80,3 +80,4 @@ alias:
   request/: http://goo.gl/forms/JQs0MjSYYZp50Mjf2
   entertainment-schedule/: events/entertainment-stage/schedule/
   entertainment/: events/entertainment-stage/schedule/
+  events/arena/: events/outdoor-arena/

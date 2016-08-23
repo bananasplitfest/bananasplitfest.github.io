@@ -1,5 +1,5 @@
 ---
-title: Medicine Shoppe Kids Corner
+title: Medicine Shoppe Kid's Corner
 date: 2016-05-05 17:42:52
 sponsors:
 - "Medicine Shoppe"

@@ -1,6 +1,5 @@
 ---
 title: Gutchess Hardwoods 5k Banana Run
-subtitle: presented by UPMC Centers for Rehab Services
 date: 2016-05-05 17:32:17
 links:
   Paper Form: 5k_Registration_Form.pdf
@@ -12,7 +11,7 @@ masthead: 'masthead-5k-run.jpg'
 ---
 
 ### Online Registration closed
-You can still register for this year's 5K Banana Run! Just stop by early packet pickup on Friday, August 26th between 4:30 and 6pm at Latrobe Little League Concession stand. You can also mail your registration form to the chamber offices at PO Box 463, Latrobe, PA 15650. Use the link above to download a form.
+You can still register for this year's 5K Banana Run! Just stop by early packet pickup on Friday, August 26th between 4:30 and 6pm at Latrobe Little League Concession stand. You can also mail your registration form to the chamber offices at PO Box 463, Latrobe, PA 15650. The last option is to register the day of the event. Use the button above to download a form.
 
 ### Event details and schedule
 + August 27th, 2016
