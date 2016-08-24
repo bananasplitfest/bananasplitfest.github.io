@@ -18,4 +18,4 @@ Wayne Baker - lead guitar
 ## Genre
 Trucker Rock
 
-###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](http://bananasplitfest.com/entertainment-schedule)
+###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](../schedule)

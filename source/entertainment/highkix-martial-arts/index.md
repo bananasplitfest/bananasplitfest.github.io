@@ -12,4 +12,4 @@ Our goal at HighKix Martial Arts, is to give our customers a lifelong experience
 Our programs offer ways to build your mind, body and character. Our emphasis on technique, philosphy and history comes from the Korean Martial Art of Tang Soo Do which re-enforces mental, physical endurance, discipline, and self-esteem.
 
 
-###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](http://bananasplitfest.com/entertainment-schedule)
+###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](../schedule)

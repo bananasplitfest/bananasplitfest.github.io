@@ -10,4 +10,4 @@ Savannah and Tate have performed in many local theater performances at Latrobe H
 Tate is going into his sophomore year at Greater Latrobe High School and is very anxious to continue participating in the school performing arts programs and keeping his eye on the local theater scene deciding what shows to audition for. Tate also attends The Pittsburgh CLO Academy where he is taking vocal, dancing,  and acting classes. This past year Tate was selected  in the lead role as the “Prince” in the CLO’s Little Mermaid”. Savannah and Tate are both very grateful of the local performing arts community and the training and mentoring they have received. Both of them love their community and hope everyone attends their performance to realize what local talent there is in the Greater Latrobe area.
 
 
-###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](http://bananasplitfest.com/entertainment-schedule)
+###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](../schedule)
