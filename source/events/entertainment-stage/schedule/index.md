@@ -71,7 +71,7 @@ sponsors:
       <td>4:00 PM</td><td>The Rhoades Brothers Band</td>
     </tr>
     <tr>
-      <td>5:30 PM</td><td>John Noble and the Murphy Band</td>
+      <td>4:30 PM</td><td>John Noble and the Murphy Band</td>
     </tr>
     <tr>
       <td>7:15 PM</td><td>DJ Dark Shark</td>

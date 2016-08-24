@@ -1,0 +1,13 @@
+---
+title: Savannah & Tate
+date: 2016-08-24 18:01:31
+masthead: 'entertainment/masthead-savannah-tate.jpg'
+---
+Tate McElhaney and his older sister Savannah are growing up together musically and have their sights set high. Both have dreams to perform on Broadway and The Metropolitan Opera, in New York City. Savannah admitted at first she didn’t want to sing along side with her little brother but soon realized it was too beneficial of a collaboration to pass up. Both will be performing Friday, August 26 at 2:30pm on the main stage downtown Latrobe. The theme of their show is “1904 Banana Splits & Broadway”. They will be singing songs from Broadway of 1904 to current popular Broadway musical hits. The opening song will be “Vanilla Ice Cream” from the musical “She Loves Me”. Music for the show is arranged by Jean McMahon of New Song Performing Arts School at Olde Main Theater in Latrobe and choreographed by Jarrett Reiche from Mary Mount Manhattan College in New York City, originally from Penn Trafford.
+
+Savannah and Tate have performed in many local theater performances at Latrobe High School, Ligonier Diamond Theater, Applehill Playhouse and Geyer Performing Arts Center. Savannah was privately trained during her high school years by Nicole Wolfgang of Latrobe and Amy Stabnau of Pittsburgh. After graduating from Latrobe High School in 2015 and serving two internships at The Pittsburgh Opera she recently finished up her freshman year at Duquesne University where she received a scholarship for Vocal Performance at The Mary Pappert School of Music. After studying under world renown opera performer and mentor Guenko Guechev, Savannah has been invited to attend The Johns Hopkins Peabody Conservatory in Baltimore, Maryland to continue her classical training and education.
+
+Tate is going into his sophomore year at Greater Latrobe High School and is very anxious to continue participating in the school performing arts programs and keeping his eye on the local theater scene deciding what shows to audition for. Tate also attends The Pittsburgh CLO Academy where he is taking vocal, dancing,  and acting classes. This past year Tate was selected  in the lead role as the “Prince” in the CLO’s Little Mermaid”. Savannah and Tate are both very grateful of the local performing arts community and the training and mentoring they have received. Both of them love their community and hope everyone attends their performance to realize what local talent there is in the Greater Latrobe area.
+
+
+###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](http://bananasplitfest.com/entertainment-schedule)

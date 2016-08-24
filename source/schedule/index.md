@@ -93,6 +93,9 @@ subtitle: "So much to see. So much to do. Don't miss a thing"
       <td colspan="2">11:00 AM</td><td>Eat 'n Park <strong>Great American Pie Eating Contest</strong> presented by Wildcat Belts</td><td>MedExpress Arena at Rogers Memorial Park</td><td><a href="/events/pie-eating-contest" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
     <tr>
+      <td>12:00 PM</td><td>2:00 PM</td><td>KDKA Kid's Kasts</td><td>MedExpress Arena</td><td></td>
+    </tr>
+    <tr>
       <td>12:00 PM</td><td>4:00 PM</td><td>Huss Chiropractic <strong>Farmer's Market</strong></td><td>Downtown</td><td><a href="/events/farmers-market" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
     <tr>
