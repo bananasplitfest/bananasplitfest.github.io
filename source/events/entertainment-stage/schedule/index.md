@@ -65,13 +65,13 @@ sponsors:
       <td>1:30 PM</td><td>Miracle Elixr Show</td><td><a href="/entertainment/miracle-elixr-show" class="btn btn-primary btn-xs">About this act...</a></td>
     </tr>
     <tr>
-      <td>2:30 PM</td><td>Deglua, Stouffer, Feliciani</td><td></td>
-    </tr>
-    <tr>
-      <td>4:00 PM</td><td>The Rhoades Brothers Band</td><td></td>
+      <td>3:00 PM</td><td>The Rhoades Brothers Band</td><td></td>
     </tr>
     <tr>
       <td>4:30 PM</td><td>John Noble and the Murphy Band</td><td></td>
+    </tr>
+    <tr>
+      <td>5:30 PM</td><td>Deglua, Stouffer, Feliciani</td><td></td>
     </tr>
     <tr>
       <td>7:15 PM</td><td>DJ Dark Shark</td><td></td>
