@@ -9,9 +9,10 @@ masthead: masthead-pie-eating.jpg
 
 ## Individual Registration
 
-Participants must be at least 18 years of age.
+Registration is now closed. Thanks for your interest!
 
 {% raw %}
+<!--
 <form action="//flipmail.co/api/HN36YPnjfDfkvgFmbulO" method="post">
   <div class="row">
     <div class="col-sm-4">
@@ -76,4 +77,5 @@ Participants must be at least 18 years of age.
   <input type="hidden" name="_replyto" value="%email">
   <input type="text" name="_honey" value="" style="display:none">
 </form>
+-->
 {% endraw %}
