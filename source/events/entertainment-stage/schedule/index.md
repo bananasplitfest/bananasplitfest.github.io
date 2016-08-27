@@ -23,12 +23,6 @@ sponsors:
   </thead>
   <tbody>
     <tr>
-      <td>10:30 AM</td><td>HighKix Martial Arts</td><td><a href="/entertainment/highkix-martial-arts" class="btn btn-primary btn-xs">About this act...</a></td>
-    </tr>
-    <tr>
-      <td>11:30 AM</td><td>Miracle Elixr Show</td><td><a href="/entertainment/miracle-elixr-show" class="btn btn-primary btn-xs">About this act...</a></td>
-    </tr>
-    <tr>
       <td>12:30 PM</td><td>Willow Tree Gymnastics</td><td><a href="/entertainment/willow-tree-gymnastics" class="btn btn-primary btn-xs">About this act...</a></td>
     </tr>
     <tr>

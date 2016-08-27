@@ -25,12 +25,6 @@ subtitle: "So much to see. So much to do. Don't miss a thing"
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">7:30 AM</td><td>Gutchess Hardwoods <strong>5k Banana Run</strong> Registration</td><td>Legion Keener Park Little League Concession Stand</td><td><a href="/events/5k-banana-run" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
-      <td colspan="2">9:00 AM</td><td>Gutchess Hardwoods <strong>5k Banana Run</strong></td><td>Starts at Legion Keener Park</td><td><a href="/events/5k-banana-run" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
       <td>10:00 AM</td><td>2:00 PM</td><td>Lion's Club <strong>Car Cruise</strong> presented by State Farm Agent Sarah Crispin-Thomas</td><td>Westmoreland County Community College Parking Lot</td><td><a href="/events/car-cruise" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
     <tr>
