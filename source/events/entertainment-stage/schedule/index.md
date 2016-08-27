@@ -5,38 +5,8 @@ sponsors:
 - "Sendell Motors"
 ---
 
-[Friday](#friday) | [Saturday](#saturday) | [Sunday](#sunday)
+[Saturday](#saturday) | [Sunday](#sunday)
 
-
-###### [Weekend schedule of events](/schedule)
-
-<a name="friday"></a>
-
-## Friday, August 26
-
-{% raw %}
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th>Start</th><th colspan="2">Event</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2:30 PM</td><td>Savannah and Tate</td><td><a href="/entertainment/savannah-tate" class="btn btn-primary btn-xs">About this act...</a></td>
-    </tr>
-    <tr>
-      <td>3:45 PM</td><td>Bearfoot Neighbors</td><td><a href="/entertainment/bearfoot-neighbors" class="btn btn-primary btn-xs">About this act...</a></td>
-    </tr>
-    <tr>
-      <td>5:00 PM</td><td>East Coast Turnaround (Acoustic)</td><td><a href="/entertainment/east-coast-turnaround" class="btn btn-primary btn-xs">About this act...</a></td>
-    </tr>
-    <tr>
-      <td>7:15 PM</td><td>DJ Dark Shark</td><td></td>
-    </tr>
-  </tbody>
-</table>
-{% endraw %}
 
 ###### [Weekend schedule of events](/schedule)
 

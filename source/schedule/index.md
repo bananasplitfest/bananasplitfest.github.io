@@ -4,49 +4,11 @@ date: 2016-08-14 11:09:48
 subtitle: "So much to see. So much to do. Don't miss a thing"
 ---
 
-[Friday](#friday) | [Saturday](#saturday) | [Sunday](#sunday)
+[Saturday](#saturday) | [Sunday](#sunday)
 
-###### There's more to see at the [Sendell Motors Enterainment Stage Schedule](/entertainment-schedule)
 
 <a name="friday"></a>
 
-## Friday, August 26
-
-{% raw %}
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th>Start</th><th>End</th><th>Event</th><th colspan="2">Location</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2:00 PM</td><td>8:00 PM</td><td><strong>Vendors</strong> Open</td><td>Downtown</td><td>&nbsp</td>
-    </tr>
-    <tr>
-      <td>2:00 PM</td><td>8:00 PM</td><td>Citizen's Fiber <strong>Food Court</strong></td><td>Downtown</td><td>&nbsp</td>
-    </tr>
-    <tr>
-      <td>2:00 PM</td><td>8:00 PM</td><td><strong>Entertainment</strong> Acts</td><td>Sendell Motors Entertainment Stage</td><td><a href="/events/entertainment-stage/schedule/#friday" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
-      <td>2:00 PM</td><td>8:00 PM</td><td>MedExpress <strong>Arena</strong></td><td>Rogers Memorial Park</td><td><a href="/events/outdoor-arena" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
-      <td>2:00 PM</td><td>8:00 PM</td><td>The Eyeglass Shoppe <strong>Climbing Wall</strong></td><td>Downtown</td><td><a href="/events/climbing-wall" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
-      <td>4:30 PM</td><td>6:00 PM</td><td>Gutchess Hardwoods <strong>5k Banana Run</strong> Early Packet Pickup</td><td>Legion Keener Park Little League Concession Stand</td><td><a href="/events/5k-banana-run" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
-      <td colspan="2">6:00 PM</td><td>Latrobe Art Center <strong>Yellow Tie Gala</strong></td><td><em>Private-Ticketed Event</em></td><td></td>
-    </tr>
-    <tr>
-      <td colspan="2">7:00 PM</td><td>Greater Latrobe vs. Derry Area High School <strong>Football Game</strong></td><td>Latrobe Memorial Stadium</td><td></td>
-    </tr>
-  </tbody>
-</table>
-{% endraw %}
 
 ###### There's more to see at the [Sendell Motors Enterainment Stage Schedule](/entertainment-schedule)
 
