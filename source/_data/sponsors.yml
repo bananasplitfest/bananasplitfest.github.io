@@ -22,6 +22,9 @@
 - name: "Arnold Palmer Motors"
   url: http://www.arnoldpalmermotors.net/
   logo: arnold-palmer-motors.png
+- name: "A&S Indoor Pistol Range"
+  url: http://www.indoorpistolrange.com/
+  logo: as-range.png
 - name: "Springhill Suites by Marriott Latrobe"
   url: http://www.springhillsuites.com
   logo: springhill-suites.png
@@ -34,6 +37,9 @@
 - name: "Zone 6"
   url: http://zone6.online
   logo: zone6.png
+- name: "LHTC Media Showcase"
+  url: http://www.lhtc.co/
+  logo: lhtc-media.png
 - name: "Schultheis Electric"
   url: http://www.tsbinc.net/
   logo: schultheis-electric.png
@@ -43,6 +49,9 @@
 - name: "Citizen's Fiber"
   url: http://www.citizensfiber.com/
   logo: citizens-fiber.png
+- name: "Blue Sky Sign Co"
+  url: http://blueskysignco.com
+  logo: blue-sky-sign.png
 - name: "Westmoreland County Airport"
   url: http://www.palmerairport.com/
   logo: westmoreland-airport.png
@@ -64,12 +73,21 @@
 - name: "Huss Chiropractic"
   url: http://husschiropractic.com/
   logo: huss.png
+- name: "Senior Life of Greensburg"
+  url: http://seniorlifegreensburg.com/
+  logo: senior-life.png
 - name: "Westmoreland County Community College"
   url: http://wccc.edu/
   logo: wccc.png
+- name: "Sweet Buzz"
+  url: https://www.facebook.com/SweetBuzzBean
+  logo: sweet-buzz.png
 - name: "First Commonwealth Bank"
   url: http://fcbanking.com
   logo: first-commonwealth.png
+- name: "Cenkner Engineering"
+  url: http://Cenkner.com
+  logo: cenkner.png
 - name: "Pace Industries Airo Division"
   url: http://paceind.com/location/airo-division/
   logo: pace.png
