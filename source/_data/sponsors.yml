@@ -73,6 +73,9 @@
 - name: "Huss Chiropractic"
   url: http://husschiropractic.com/
   logo: huss.png
+- name: "Eyeglass Shoppe"
+  url: http://www.eyeglassshoppe.net/
+  logo: eyeglass-shoppe.png
 - name: "Senior Life of Greensburg"
   url: http://seniorlifegreensburg.com/
   logo: senior-life.png
@@ -86,26 +89,38 @@
   url: http://fcbanking.com
   logo: first-commonwealth.png
 - name: "Cenkner Engineering"
-  url: http://Cenkner.com
+  url: http://cenkner.com
   logo: cenkner.png
+- name: "Latrobe Shop 'n Save"
+  url: https://www.shopnsavefood.com
+  logo: shop-n-save.png
+- name: "Forever Media"
+  url: http://www.forevermediainc.com/
+  logo: forever-media.png
 - name: "Pace Industries Airo Division"
   url: http://paceind.com/location/airo-division/
   logo: pace.png
-- name: "Forever Media"
-  url: http://www.foreverjohnstown.com/
-  logo: forever-media.png
 - name: "Froggy 95"
   url: http://www.foreverjohnstown.com/myfroggy95/
   logo: froggy95.jpg
+- name: "Courtyard by Marriott Greensburg"
+  url: http://www.marriott.com/hotels/travel/pitgb-courtyard-pittsburgh-greensburg/
+  logo: courtyard.png
+- name: "Carpenter"
+  url: https://www.cartech.com/en/
+  logo: carpenter.png
 - name: "100.7 Star"
   url: http://starpittsburgh.cbslocal.com/
   logo: 1007-star-pittsburgh.png
+- name: "Planet Fitness"
+  url: http://planetfitness.com/gyms/latrobe-pa-1300
+  logo: planet-fitness.png
 - name: "KDKA 1020"
   url: http://pittsburgh.cbslocal.com/
   logo: kdka-1020.png
-- name: "Eyeglass Shoppe"
-  url: http://www.eyeglassshoppe.net/
-  logo: eyeglass-shoppe.png
+- name: "Cat Country"
+  logo: cat-country.png
+  url: http://www.country1063fm.com/
 - name: "Latrobe Bulletin"
   url: http://www.latrobebulletinnews.com/
   logo: latrobe-bulletin.gif
@@ -115,6 +130,9 @@
 - name: "Sam's Club"
   url: http://samsclub.com
   logo: sams-club.png
+- name: "Y108"
+  url: http://y108.cbslocal.com/
+  logo: y108.png
 - name: "Commercial Bank & Trust of PA"
   url: http://cbthebank.com
   logo: commercial-bank-trust.png
@@ -130,6 +148,12 @@
 - name: "LJ Aviation"
   url: http://ljaviation.com/
   logo: lj-aviation.png
+- name: "Total Service Inc"
+  url: http://totalserviceinc.com/
+  logo: total-service-inc.png
+- name: "Lowes"
+  url: http://www.lowes.com/
+  logo: lowes.png
 - name: "Lesco Federal Credit Union"
   url: http://www.lescofcu.com/
   logo: lesco.png
@@ -142,6 +166,9 @@
 - name: "Adelphoi Village"
   url: http://adelphoivillage.org/
   logo: adelphoi.png
+- name: "State Security & Investigation Services"
+  url: http://ssisagency.com/
+  logo: state-security.png
 - name: "Lion's Club"
   url: http://e-clubhouse.org/sites/latrobepa/
   logo: lions-club.png
