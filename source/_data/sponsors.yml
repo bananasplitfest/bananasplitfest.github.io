@@ -1,12 +1,9 @@
 - name: "Valley Dairy Restaurants"
   url: http://www.valleydairy.net/
   logo: valley-dairy.png
-- name: "Excela Health"
-  url: http://excela.org
-  logo: excela.png
-- name: "S&T Bank"
-  url: http://stbank.com
-  logo: STbank.png
+- name: "Dairy Queen Latrobe"
+  url: https://www.dairyqueen.com/us-en/locator/Detail/?localechange=1&&store-id=5287
+  logo: dairy-queen.png
 - name: "City of Latrobe"
   url: http://cityoflatrobe.com
   logo: city-of-latrobe.png
@@ -16,90 +13,51 @@
 - name: "Sendell Motors"
   url: http://sendell.com
   logo: sendell.png
-- name: "Xcoal"
-  url: http://www.xcoal.com/
-  logo: xcoal.png
-- name: "Arnold Palmer Motors"
-  url: http://www.arnoldpalmermotors.net/
-  logo: arnold-palmer-motors.png
-- name: "A&S Indoor Pistol Range"
-  url: http://www.indoorpistolrange.com/
-  logo: as-range.png
+- name: "Forever Media"
+  url: http://www.forevermediainc.com/
+  logo: forever-media.png
+- name: "100.7 Star"
+  url: http://starpittsburgh.cbslocal.com/
+  logo: 1007-star-pittsburgh.png
+- name: "Excela Health"
+  url: http://excela.org
+  logo: excela.png
 - name: "Springhill Suites by Marriott Latrobe"
   url: http://www.springhillsuites.com
   logo: springhill-suites.png
 - name: "Gutchess Hardwoods"
   url: http://www.gutchess.com/
   logo: gutchess.png
+- name: "Saint Vincent College"
+  url: http://stvincent.edu
+  logo: st-vincent.png
+- name: "Pace Industries Airo Division"
+  url: http://paceind.com/location/airo-division/
+  logo: pace.png
+- name: "MedExpress"
+  url: http://medexpress.com
+  logo: medexpress.png
 - name: "Latrobe Community Revitalization Program"
   url: http://www.latroberevitalization.org
   logo: latrobe-revitalization.png
 - name: "Zone 6"
   url: http://zone6.online
   logo: zone6.png
-- name: "LHTC Media Showcase"
-  url: http://www.lhtc.co/
-  logo: lhtc-media.png
 - name: "Schultheis Electric"
   url: http://www.tsbinc.net/
   logo: schultheis-electric.png
 - name: "Trib Total Media"
   url: triblive.com
   logo: trib.png
-- name: "Citizen's Fiber"
-  url: http://www.citizensfiber.com/
-  logo: citizens-fiber.png
-- name: "Blue Sky Sign Co"
-  url: http://blueskysignco.com
-  logo: blue-sky-sign.png
 - name: "Westmoreland County Airport"
   url: http://www.palmerairport.com/
   logo: westmoreland-airport.png
-- name: "MedExpress"
-  url: http://medexpress.com
-  logo: medexpress.png
-- name: "Saint Vincent College"
-  url: http://stvincent.edu
-  logo: st-vincent.png
-- name: "Medicine Shoppe"
-  url: http://www.medicineshoppe.com/pharmacy-locations/pennsylvania/latrobe/home
-  logo: medicine-shoppe.png
 - name: "Sarah Crispin-Thomas State Farm"
   url: http://sarahcrispinthomas.com/
   logo: state-farm.png
-- name: "Colour Magic"
-  url: http://colourmagicusa.com/
-  logo: colour-magic.png
-- name: "Huss Chiropractic"
-  url: http://husschiropractic.com/
-  logo: huss.png
-- name: "Eyeglass Shoppe"
-  url: http://www.eyeglassshoppe.net/
-  logo: eyeglass-shoppe.png
-- name: "Senior Life of Greensburg"
-  url: http://seniorlifegreensburg.com/
-  logo: senior-life.png
 - name: "Westmoreland County Community College"
   url: http://wccc.edu/
   logo: wccc.png
-- name: "Sweet Buzz"
-  url: https://www.facebook.com/SweetBuzzBean
-  logo: sweet-buzz.png
-- name: "First Commonwealth Bank"
-  url: http://fcbanking.com
-  logo: first-commonwealth.png
-- name: "Cenkner Engineering"
-  url: http://cenkner.com
-  logo: cenkner.png
-- name: "Latrobe Shop 'n Save"
-  url: https://www.shopnsavefood.com
-  logo: shop-n-save.png
-- name: "Forever Media"
-  url: http://www.forevermediainc.com/
-  logo: forever-media.png
-- name: "Pace Industries Airo Division"
-  url: http://paceind.com/location/airo-division/
-  logo: pace.png
 - name: "Froggy 95"
   url: http://www.foreverjohnstown.com/myfroggy95/
   logo: froggy95.jpg
@@ -109,12 +67,6 @@
 - name: "Carpenter"
   url: https://www.cartech.com/en/
   logo: carpenter.png
-- name: "100.7 Star"
-  url: http://starpittsburgh.cbslocal.com/
-  logo: 1007-star-pittsburgh.png
-- name: "Planet Fitness"
-  url: http://planetfitness.com/gyms/latrobe-pa-1300
-  logo: planet-fitness.png
 - name: "KDKA 1020"
   url: http://pittsburgh.cbslocal.com/
   logo: kdka-1020.png
@@ -130,9 +82,6 @@
 - name: "Sam's Club"
   url: http://samsclub.com
   logo: sams-club.png
-- name: "Y108"
-  url: http://y108.cbslocal.com/
-  logo: y108.png
 - name: "Commercial Bank & Trust of PA"
   url: http://cbthebank.com
   logo: commercial-bank-trust.png
@@ -145,30 +94,18 @@
 - name: "Mullen Refrigeration"
   url: http://www.mullenrefrigeration.com/
   logo: mullen.png
-- name: "LJ Aviation"
-  url: http://ljaviation.com/
-  logo: lj-aviation.png
-- name: "Total Service Inc"
-  url: http://totalserviceinc.com/
-  logo: total-service-inc.png
 - name: "Lowes"
   url: http://www.lowes.com/
   logo: lowes.png
-- name: "Lesco Federal Credit Union"
-  url: http://www.lescofcu.com/
-  logo: lesco.png
 - name: "Brian Panichelle Agency - Nationwide"
   url: http://panichelle.com
   logo: nationwide-bp-insurance.png
-- name: "UPMC Centers for Rehab Services"
-  url: http://www.upmc.com/Services/rehab/crs/Pages/default.aspx
-  logo: upmc.png
 - name: "Adelphoi Village"
   url: http://adelphoivillage.org/
   logo: adelphoi.png
-- name: "State Security & Investigation Services"
-  url: http://ssisagency.com/
-  logo: state-security.png
-- name: "Lion's Club"
-  url: http://e-clubhouse.org/sites/latrobepa/
-  logo: lions-club.png
+- name: "S&T Bank"
+  url: http://stbank.com
+  logo: STbank.png
+- name: "LJ Aviation"
+  url: http://ljaviation.com/
+  logo: lj-aviation.png

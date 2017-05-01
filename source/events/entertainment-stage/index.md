@@ -5,4 +5,4 @@ links:
 sponsors:
 - "Sendell Motors"
 ---
-Local music acts and live demonstrations all weekend long!
+Two stages full of local music acts and live demonstrations all weekend long! Schedule coming soon
