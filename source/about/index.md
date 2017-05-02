@@ -6,7 +6,7 @@ date: 2016-05-23 11:27:28
 ## Executive Committee Members
 
 ### Chairman
-Michael Simmons
+Michael Simons
 SpringHill Suites Latrobe
 
 ### Vice Chair of 5k Banana Run
@@ -14,6 +14,8 @@ Gerry Baldonieri
 City of Latrobe
 
 ### Vice Chair of Bubble Run
+Dominic Caringola
+SpringHill Suites Latrobe
 
 ### Vice Chair of Entertainment
 Jacob Falbo
@@ -29,7 +31,7 @@ Zone 6
 
 ### Vice Chair of Operations
 Brian Panichelle
-BP Insurance, Ligonier
+BP Insurance
 
 ### Vice Chair of Thematics
 Bob Demangone
@@ -41,8 +43,10 @@ Community Options
 
 ### Vice Chair of Volunteers
 Tracy Martello
+Cozy Inn Pet Resort
 
 ### Committee Members
+Alex Bennett, Bravo! Cucina Italiana
 Melissa Blystone, Valley Dairy Restaurants
 Mike Dudurich, GLLV Chamber
 Janet Hoffer, Westmoreland County Community College
@@ -56,6 +60,6 @@ Michael Succheralli, S&T Bank
 Jarod Trunzo, Latrobe Community Revitalization Program
 Rosie Wolford, City of Latrobe
 
-### Chamber Staff
-Allen Martello, Event Director
-Hannah Kahn, Chamber Director of Membership
+### GLLV Chamber Staff
+Allen Martello, Interim President & Event Director
+Hannah Kahn, Membership Coordinator
