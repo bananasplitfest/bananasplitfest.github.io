@@ -2,6 +2,7 @@
 title: Gutchess Hardwoods 5k Banana Run
 date: 2016-05-05 17:32:17
 links:
+    Online Registration: http://www.active.com/latrobe-pa/running/distance-running-races/5k-banana-run-2017
 sponsors:
 - "Gutchess Hardwoods"
 masthead: 'masthead-5k-run.jpg'
@@ -14,8 +15,17 @@ Latrobe Memorial Stadium
 131 Irving Avenue  
 Latrobe, PA 15650
 
-
 A full timed and chipped 5K for both runners and walkers. Each pre-registered participant receives a t-shirt. This race route travels through historical downtown Latrobe. Unique medals will be awarded to male and female 1st, 2nd, and 3rd place winners overall and for each age bracket.
+
+#### Age Brackets for this race will be: 
++ 10 and under
++ 11-15
++ 16-19
++ 20-29
++ 30-39
++ 40-49
++ 50-59
++ 60+
 
 Parking is available at Latrobe Memorial Stadium.
 
