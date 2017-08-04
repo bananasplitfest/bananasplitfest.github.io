@@ -13,21 +13,21 @@
 - name: "Sendell Motors"
   url: http://sendell.com
   logo: sendell.png
-- name: "Forever Media"
-  url: http://www.forevermediainc.com/
-  logo: forever-media.png
-- name: "100.7 Star"
-  url: http://starpittsburgh.cbslocal.com/
-  logo: 1007-star-pittsburgh.png
+- name: "Gutchess Hardwoods"
+  url: http://www.gutchess.com/
+  logo: gutchess.png
 - name: "Excela Health"
   url: http://excela.org
   logo: excela.png
 - name: "Springhill Suites by Marriott Latrobe"
   url: http://www.springhillsuites.com
   logo: springhill-suites.png
-- name: "Gutchess Hardwoods"
-  url: http://www.gutchess.com/
-  logo: gutchess.png
+- name: "Grand Canyon University"
+  url: https://www.gcu.edu/
+  logo: grand-canyon-university.png
+- name: "Robindale Energy"
+  url: https://robindale.energy
+  logo: robindale-energy.png
 - name: "Saint Vincent College"
   url: http://stvincent.edu
   logo: st-vincent.png
@@ -37,6 +37,21 @@
 - name: "MedExpress"
   url: http://medexpress.com
   logo: medexpress.png
+- name: "Sarah Crispin-Thomas State Farm"
+  url: http://sarahcrispinthomas.com/
+  logo: state-farm.png
+- name: "Westmoreland County Community College"
+  url: http://wccc.edu/
+  logo: wccc.png
+- name: "S&T Bank"
+  url: http://stbank.com
+  logo: STbank.png
+- name: "Adelphoi Village"
+  url: http://adelphoivillage.org/
+  logo: adelphoi.png
+- name: "Brian Panichelle Agency - Nationwide"
+  url: http://panichelle.com
+  logo: nationwide-bp-insurance.png
 - name: "Latrobe Community Revitalization Program"
   url: http://www.latroberevitalization.org
   logo: latrobe-revitalization.png
@@ -52,21 +67,15 @@
 - name: "Westmoreland County Airport"
   url: http://www.palmerairport.com/
   logo: westmoreland-airport.png
-- name: "Sarah Crispin-Thomas State Farm"
-  url: http://sarahcrispinthomas.com/
-  logo: state-farm.png
-- name: "Westmoreland County Community College"
-  url: http://wccc.edu/
-  logo: wccc.png
 - name: "Froggy 95"
   url: http://www.foreverjohnstown.com/myfroggy95/
   logo: froggy95.jpg
-- name: "Courtyard by Marriott Greensburg"
-  url: http://www.marriott.com/hotels/travel/pitgb-courtyard-pittsburgh-greensburg/
-  logo: courtyard.png
-- name: "Carpenter"
-  url: https://www.cartech.com/en/
-  logo: carpenter.png
+- name: "Forever Media"
+  url: http://www.forevermediainc.com/
+  logo: forever-media.png
+- name: "100.7 Star"
+  url: http://starpittsburgh.cbslocal.com/
+  logo: 1007-star-pittsburgh.png
 - name: "KDKA 1020"
   url: http://pittsburgh.cbslocal.com/
   logo: kdka-1020.png
@@ -76,36 +85,24 @@
 - name: "Latrobe Bulletin"
   url: http://www.latrobebulletinnews.com/
   logo: latrobe-bulletin.gif
-- name: "Grand Canyon University"
-  url: https://www.gcu.edu/
-  logo: grand-canyon-university.png
+- name: "Carpenter"
+  url: https://www.cartech.com/en/
+  logo: carpenter.png
 - name: "Sam's Club"
   url: http://samsclub.com
   logo: sams-club.png
-- name: "Commercial Bank & Trust of PA"
-  url: http://cbthebank.com
-  logo: commercial-bank-trust.png
 - name: "Eat 'n Park"
   url: http://www.eatnpark.com/
   logo: eat-n-park.png
-- name: "Wildcat Championship Belts"
-  url: http://www.wildcatbelts.com/
-  logo: wildcat-belts.png
 - name: "Mullen Refrigeration"
   url: http://www.mullenrefrigeration.com/
   logo: mullen.png
-- name: "Lowes"
-  url: http://www.lowes.com/
-  logo: lowes.png
-- name: "Brian Panichelle Agency - Nationwide"
-  url: http://panichelle.com
-  logo: nationwide-bp-insurance.png
-- name: "Adelphoi Village"
-  url: http://adelphoivillage.org/
-  logo: adelphoi.png
-- name: "S&T Bank"
-  url: http://stbank.com
-  logo: STbank.png
+- name: "Redfin"
+  url:  https://www.redfin.com/city/15702/PA/Pittsburgh
+  logo: redfin.png
 - name: "LJ Aviation"
   url: http://ljaviation.com/
   logo: lj-aviation.png
+- name: "Wildcat Championship Belts"
+  url: http://www.wildcatbelts.com/
+  logo: wildcat-belts.png

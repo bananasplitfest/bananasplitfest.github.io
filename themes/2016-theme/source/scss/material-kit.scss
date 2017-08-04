@@ -50,6 +50,10 @@
 
 @import 'material-kit/sections';
 
+@import 'sponsor-square';
+
+@import 'event-table';
+
 // External plugins
 @import 'material-kit/plugins/_plugin-nouislider';
 @import 'material-kit/plugins/_plugin-selectize';
@@ -59,5 +63,3 @@
 @import 'material-kit/example-pages';
 
 @import 'material-kit/responsive';
-
-@import 'sponsor-square';

@@ -6,4 +6,5 @@ subtitle: "So much to see. So much to do. Don't miss a thing"
 
 
 
-The 2017 schedule has not been released yet. Make sure you have your calendars marked for August 25-27.
+The 2017 event schedule has not been released yet. However, you can take a look at the [entertainment](/events/entertainment-stage) that's been lined up.
+

@@ -1,5 +1,5 @@
 ---
-title: Car Cruise
+title: Relay for Life Car Cruise
 subtitle: presented by State Farm Agent Sarah Crispin-Thomas
 date: 2016-05-05 17:38:18
 sponsors:
@@ -7,11 +7,11 @@ sponsors:
 links:
 masthead: 'masthead-car-cruise.jpg'
 ---
-Our car cruise has been expanded this year and will be better than ever! Held on Saturday August 26th, there will be a $10/vehicle registration fee. Dash plaques will be given to the first 100 cars, and there will also be an opportunity for door prizes and trophies!
+Our car cruise will again be held in the Latrobe campus Westmoreland County Community College to accomodate all those participating! Held on Saturday August 26th, there will be a $10/vehicle registration fee. Dash plaques will be given to the first 100 cars, and there will also be an opportunity for door prizes and trophies!
 
 ### Location
 
-The car cruise will be held in the Westmoreland County Community College's parking lot.
+The car cruise will be held in the Westmoreland County Community College's parking lot. Please be aware there is contruction on the 981 bridge next to the college.
 
 130 Depot St.
 Latrobe, PA 15650
