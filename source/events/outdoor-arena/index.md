@@ -4,4 +4,20 @@ date: 2016-05-05 17:42:30
 sponsors:
 - "MedExpress"
 ---
-An area just for our younger guests! Stop by anytime throughout the weekend. Located in Rogers Memorial Park, this space will be filled with fun activities for kids of all ages! Presented by MedExpress.
+Stop by Rogers Memorial Park throughout the weekend to join in fun activities for kids of all ages! Presented by MedExpress.
+
+### All weekend long
+
++ Girl Scouts of Western PA
++ Daniel Tiger and Friends photo cut-outs
+
+### Saturday
+
++ Adams Memorial Library
++ Keystone State Park (1-7pm)
++ Steel City Greyhounds
++ KDKA KiDKAst (12-2pm)
+
+### Sunday
+
++ Keystone State Park (10am-3pm)

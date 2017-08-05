@@ -1,6 +1,6 @@
 ---
 title: Relay for Life Car Cruise
-subtitle: presented by State Farm Agent Sarah Crispin-Thomas
+subtitle: presented by Sarah Crispin-Thomas State Farm
 date: 2016-05-05 17:38:18
 sponsors:
 - "Sarah Crispin-Thomas State Farm"

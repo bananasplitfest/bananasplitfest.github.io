@@ -1,5 +1,5 @@
 ---
-title: Bubble Run
+title: Almost 5k Foam Run
 subtitle: presented by St. Vincent College
 date: 2016-05-05 17:33:41
 sponsors:
@@ -15,4 +15,4 @@ Latrobe Memorial Stadium
 Latrobe, PA
 
 ### Bubbles!
-New for 2017 is the Bubble Run!
+New for 2017 is the Almost 5k Foam Run!

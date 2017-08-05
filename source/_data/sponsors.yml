@@ -67,12 +67,6 @@
 - name: "Westmoreland County Airport"
   url: http://www.palmerairport.com/
   logo: westmoreland-airport.png
-- name: "Froggy 95"
-  url: http://www.foreverjohnstown.com/myfroggy95/
-  logo: froggy95.jpg
-- name: "Forever Media"
-  url: http://www.forevermediainc.com/
-  logo: forever-media.png
 - name: "100.7 Star"
   url: http://starpittsburgh.cbslocal.com/
   logo: 1007-star-pittsburgh.png
@@ -85,12 +79,15 @@
 - name: "Latrobe Bulletin"
   url: http://www.latrobebulletinnews.com/
   logo: latrobe-bulletin.gif
-- name: "Carpenter"
-  url: https://www.cartech.com/en/
-  logo: carpenter.png
 - name: "Sam's Club"
   url: http://samsclub.com
   logo: sams-club.png
+- name: "Carpenter"
+  url: https://www.cartech.com/en/
+  logo: carpenter.png
+- name: "Wildcat Championship Belts"
+  url: http://www.wildcatbelts.com/
+  logo: wildcat-belts.png
 - name: "Eat 'n Park"
   url: http://www.eatnpark.com/
   logo: eat-n-park.png
@@ -103,6 +100,6 @@
 - name: "LJ Aviation"
   url: http://ljaviation.com/
   logo: lj-aviation.png
-- name: "Wildcat Championship Belts"
-  url: http://www.wildcatbelts.com/
-  logo: wildcat-belts.png
+- name: "Gibson-Thomas Engineering"
+  url: http://gibson-thomas.com/
+  logo: gibson-thomas.png
