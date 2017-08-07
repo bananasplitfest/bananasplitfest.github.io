@@ -79,6 +79,9 @@
 - name: "Latrobe Bulletin"
   url: http://www.latrobebulletinnews.com/
   logo: latrobe-bulletin.gif
+- name: "WHJB"
+  url: http://whjbfm.com/
+  logo: whjb.png
 - name: "Sam's Club"
   url: http://samsclub.com
   logo: sams-club.png
@@ -91,6 +94,9 @@
 - name: "Eat 'n Park"
   url: http://www.eatnpark.com/
   logo: eat-n-park.png
+- name: "Second Half Coach"
+  url: http://www.thesecondhalfcoach.com/
+  logo: second-half-coach.png
 - name: "Mullen Refrigeration"
   url: http://www.mullenrefrigeration.com/
   logo: mullen.png

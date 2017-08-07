@@ -10,6 +10,7 @@ Stop by Rogers Memorial Park throughout the weekend to join in fun activities fo
 
 + Girl Scouts of Western PA
 + Daniel Tiger and Friends photo cut-outs
++ Mini makeovers by Sancus Spa
 
 ### Saturday
 
