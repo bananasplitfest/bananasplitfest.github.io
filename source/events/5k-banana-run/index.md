@@ -1,10 +1,12 @@
 ---
 title: Gutchess Hardwoods 5k Banana Run
+subtitle: presented by UPMC Centers for Rehab Serivces
 date: 2016-05-05 17:32:17
 links:
     Online Registration: http://www.active.com/latrobe-pa/running/distance-running-races/5k-banana-run-2017
 sponsors:
 - "Gutchess Hardwoods"
+- "UPMC Centers for Rehab Services"
 masthead: 'masthead-5k-run.jpg'
 ---
 

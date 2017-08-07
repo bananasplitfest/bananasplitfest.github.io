@@ -97,6 +97,9 @@
 - name: "Second Half Coach"
   url: http://www.thesecondhalfcoach.com/
   logo: second-half-coach.png
+- name: "UPMC Centers for Rehab Services"
+  url: http://www.upmc.com/Services/rehab/crs/Pages/default.aspx
+  logo: upmc.png
 - name: "Mullen Refrigeration"
   url: http://www.mullenrefrigeration.com/
   logo: mullen.png
