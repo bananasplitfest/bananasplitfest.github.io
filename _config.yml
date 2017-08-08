@@ -75,10 +75,9 @@ deploy:
 
 # Aliases
 alias:
-  events/kellie-pickler/: events/concert/
-  5k-registration/: http://www.active.com/latrobe-pa/running/distance-running-races/5k-banana-run-2016
+  5k-registration/: http://www.active.com/latrobe-pa/running/distance-running-races/5k-banana-run-2017?int=
   request/: http://goo.gl/forms/JQs0MjSYYZp50Mjf2
-  entertainment-schedule/: events/entertainment-stage/schedule/
-  entertainment/: events/entertainment-stage/schedule/
-  entertainment/schedule/: events/entertainment-stage/schedule/
+  entertainment-schedule/: events/entertainment-stage/
+  entertainment/: events/entertainment-stage/
+  entertainment/schedule/: events/entertainment-stage/
   events/arena/: events/outdoor-arena/

@@ -128,7 +128,7 @@ Jump to: [Pre-Celebration Events](#pre-events) | [Friday](#friday) | [Saturday](
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">10:00 AM</td><td><strong>Almost 5k Foam Run</strong> presented by Saint Vincent College Registration</td><td>Latrobe Memorial Stadium</td><td><a href="/events/color-dash" class="btn btn-primary btn-xs">More...</a></td>
+      <td colspan="2">10:00 AM</td><td><strong>Almost 5k Foam Run</strong> presented by Saint Vincent College Registration</td><td>Latrobe Memorial Stadium</td><td><a href="/events/foam-run" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
     <tr>
       <td>10:00 AM</td><td>4:00 PM</td><td>MedExpress <strong>Outdoor Arena</strong></td><td>Rogers Memorial Park</td><td><a href="/events/outdoor-arena" class="btn btn-primary btn-xs">More...</a></td>
@@ -149,7 +149,7 @@ Jump to: [Pre-Celebration Events](#pre-events) | [Friday](#friday) | [Saturday](
       <td>10:00 AM</td><td>5:00 PM</td><td>The Eyeglass Shoppe <strong>Climbing Wall</strong></td><td>Downtown</td><td><a href="/events/climbing-wall" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
     <tr>
-      <td colspan="2">12:00 PM</td><td><strong>Almost 5k Foam Run</strong> presented by Saint Vincent College</td><td>Latrobe Memorial Stadium</td><td><a href="/events/color-dash" class="btn btn-primary btn-xs">More...</a></td>
+      <td colspan="2">12:00 PM</td><td><strong>Almost 5k Foam Run</strong> presented by Saint Vincent College</td><td>Latrobe Memorial Stadium</td><td><a href="/events/foam-run" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
   </tbody>
 </table>
