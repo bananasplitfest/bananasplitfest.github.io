@@ -26,7 +26,7 @@ masthead: 'masthead-entertainment-stages.jpg'
   </thead>
   <tbody>
     <tr>
-      <td>3:30 PM</td><td rowspan="4" class="performance">Marissa Pellis</td>
+      <td>3:00 PM</td><td rowspan="5" class="performance">Marissa Pellis</td>
       <td></td>
     </tr>
     <tr>
@@ -43,7 +43,6 @@ masthead: 'masthead-entertainment-stages.jpg'
     </tr>
     <tr>
       <td>5:30 PM</td>
-      <td></td>
       <td rowspan="6" class="performance">Latrobe Art Center's<br /><strong>Yellow Tie Gala</strong><br /><em>Private Event. Tickets required.</em></td>
     </tr>
     <tr>
@@ -228,7 +227,7 @@ masthead: 'masthead-entertainment-stages.jpg'
         </tr>
         <tr>
             <td>11:30 AM</td>
-            <td></td>
+            <td rowspan="3" class="performance">Barefoot Neighbors</td>
         </tr>
         <tr>
             <td>12:00 PM</td>
@@ -236,7 +235,6 @@ masthead: 'masthead-entertainment-stages.jpg'
         </tr>
         <tr>
             <td>12:30 PM</td>
-            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -276,39 +274,6 @@ masthead: 'masthead-entertainment-stages.jpg'
         </tr>
         <tr>
             <td>5:00 PM</td>
-            <td></td>
-            <td rowspan="3" class="performance">Derek Woods Band </td>
-        </tr>
-        <tr>
-            <td>5:30 PM</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>6:00 PM</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>6:30 PM</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7:00 PM</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7:30 PM</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>8:00 PM</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>8:30 PM</td>
             <td></td>
             <td></td>
         </tr>
