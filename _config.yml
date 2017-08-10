@@ -75,7 +75,8 @@ deploy:
 
 # Aliases
 alias:
-  5k-registration/: http://www.active.com/latrobe-pa/running/distance-running-races/5k-banana-run-2017?int=
+  5k-registration/: http://www.active.com/latrobe-pa/running/distance-running-races/5k-banana-run-2017
+  foam-run-registration/: http://www.active.com/latrobe-pa/running/distance-running-races/almost-5k-foam-run-2017
   request/: http://goo.gl/forms/JQs0MjSYYZp50Mjf2
   entertainment-schedule/: events/entertainment-stage/
   entertainment/: events/entertainment-stage/

@@ -94,6 +94,9 @@
 - name: "Eat 'n Park"
   url: http://www.eatnpark.com/
   logo: eat-n-park.png
+- name: "Latrobe Shop 'n Save'"
+  url: https://www.shopnsavefood.com/savings/weekly-ad/1346
+  logo: shop-n-save.png
 - name: "Second Half Coach"
   url: http://www.thesecondhalfcoach.com/
   logo: second-half-coach.png

@@ -19,7 +19,7 @@ Jump to: [Pre-Celebration Events](#pre-events) | [Friday](#friday) | [Saturday](
   </thead>
   <tbody>
     <tr>
-      <td>Friday, August 11 - 12:00 PM</td><td><strong>Community Cleanup Day</strong></td><td>Downtown</td><td><a href="/cleanup-day" class="btn btn-primary btn-xs">More...</a></td>
+      <td>Friday, August 18 - 11:30 AM</td><td><strong>Community Cleanup Day</strong></td><td>Meet at Latrobe City Council</td><td><a href="/cleanup-day" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
   </tbody>
 </table>

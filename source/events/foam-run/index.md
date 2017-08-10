@@ -1,5 +1,5 @@
 ---
-title: Almost 5k Foam Run
+title: (Almost) 5k Foam Run
 subtitle: presented by St. Vincent College
 date: 2016-05-05 17:33:41
 sponsors:
@@ -26,7 +26,7 @@ Family/Group/Team (of 4-20 people) - $25/person
 *Fees increases by $10/person the day of the event.
 
 
-### Bubbles!
+### Foamtastic!
 This run isn’t about keeping track of your time. It’s all about having a blast with family and friends as you complete the course running (or walking) through fountains of colorful foam!
 
 Participants will receive a white shirt (for added color later!), wrist bracelet, and bib. 
