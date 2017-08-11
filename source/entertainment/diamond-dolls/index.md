@@ -10,4 +10,4 @@ The Diamond Dolls Twirling Team, based in Derry, is in their 18th year, establis
 
 The Competitive & Mini-Competitive teams (part of the larger 55 member team) are the 2016 International Junior Strut Team Champions, 2016 International Junior Novelty Team Champions, and the 2016 International Tiny Tot Novelty Team Champions. Over the years, Diamond Dolls has won 24 Twirling Unlimited International Championships and 26 Twirling Unlimited Regional championships!
 
-###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](../schedule)
+###### More entertainment acts all weekend at the [Sendell Motors & Main Street Entertainment Stage](../schedule)

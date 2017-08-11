@@ -6,4 +6,4 @@ links:
   Website: http://www.wtgymnastics.com/
   Facebook: https://www.facebook.com/willowtreegymnastics
 ---
-###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](../schedule)
+###### More entertainment acts all weekend at the [Sendell Motors & Main Street Entertainment Stage](../schedule)

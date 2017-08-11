@@ -47,7 +47,8 @@ masthead: 'masthead-entertainment-stages.jpg'
     </tr>
     <tr>
       <td>6:00 PM</td>
-      <td rowspan="4"  class="performance">String Theory</td>
+      <td rowspan="4"  class="performance">String Theory<br />
+      <a href="/entertainment/the-string-theory/" class="btn btn-info btn-round btn-xs">More...</a></td>
     </tr>
     <tr>
       <td>6:30 PM</td>
@@ -92,7 +93,8 @@ masthead: 'masthead-entertainment-stages.jpg'
     <tbody>
         <tr>
             <td>10:30 AM</td>
-            <td rowspan="2" class="performance">Diamond Dolls </td>
+            <td rowspan="2" class="performance">Diamond Dolls<br />
+      <a href="/entertainment/diamond-dolls/" class="btn btn-info btn-round btn-xs">More...</a></td>
             <td rowspan="3" class="performance">DJ</td>
         </tr>
         <tr>
@@ -100,7 +102,8 @@ masthead: 'masthead-entertainment-stages.jpg'
         </tr>
         <tr>
             <td>11:30 AM</td>
-            <td rowspan="2" class="performance">High Kix Martial Arts </td>
+            <td rowspan="2" class="performance">High Kix Martial Arts<br />
+      <a href="/entertainment/highkix-martial-arts/" class="btn btn-info btn-round btn-xs">More...</a></td>
         </tr>
         <tr>
             <td>12:00 PM</td>
@@ -118,7 +121,7 @@ masthead: 'masthead-entertainment-stages.jpg'
         <tr>
             <td>1:30 PM</td>
             <td></td>
-            <td rowspan="2" class="performance">Henry Barchorski </td>
+            <td rowspan="2" class="performance">Henry Barchorski</td>
         </tr>
         <tr>
             <td>2:00 PM</td>
@@ -132,7 +135,7 @@ masthead: 'masthead-entertainment-stages.jpg'
         <tr>
             <td>3:00 PM</td>
             <td></td>
-            <td rowspan="3" class="performance">Anthony Adkinds </td>
+            <td rowspan="3" class="performance">Anthony Adkinds</td>
         </tr>
         <tr>
             <td>3:30 PM</td>
@@ -219,7 +222,8 @@ masthead: 'masthead-entertainment-stages.jpg'
     <tbody>
         <tr>
             <td>10:30 AM</td>
-            <td rowspan="2" class="performance">Willow Tree</td>
+            <td rowspan="2" class="performance">Willow Tree<br />
+      <a href="/entertainment/willow-tree-gymnastics/" class="btn btn-info btn-round btn-xs">More...</a></td>
             <td rowspan="3" class="performance">DJ</td>
         </tr>
         <tr>
@@ -227,7 +231,8 @@ masthead: 'masthead-entertainment-stages.jpg'
         </tr>
         <tr>
             <td>11:30 AM</td>
-            <td rowspan="3" class="performance">Barefoot Neighbors</td>
+            <td rowspan="3" class="performance">Barefoot Neighbors<br />
+      <a href="/entertainment/barefoot-neighbors/" class="btn btn-info btn-round btn-xs">More...</a></td>
         </tr>
         <tr>
             <td>12:00 PM</td>

@@ -14,4 +14,4 @@ Nick Linder - Bass
 ## Genre
 Folk/Acoustic Rock
 
-###### More entertainment acts all weekend at the [Sendell Motors Entertainment Stage](../schedule)
+###### More entertainment acts all weekend at the [Sendell Motors & Main Street Entertainment Stage](../schedule)
