@@ -5,6 +5,7 @@ date: 2016-05-05 17:38:18
 sponsors:
 - "Sarah Crispin-Thomas State Farm"
 links:
+    Registration Form: "2017-GABSC-Car-Cruise-Registration.pdf"
 masthead: 'masthead-car-cruise.jpg'
 ---
 Our car cruise will again be held in the Latrobe campus Westmoreland County Community College to accomodate all those participating! Held on Saturday August 26th, there will be a $10/vehicle registration fee. Dash plaques will be given to the first 100 cars, and there will also be an opportunity for door prizes and trophies!

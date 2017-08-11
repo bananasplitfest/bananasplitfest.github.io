@@ -94,6 +94,9 @@
 - name: "Eat 'n Park"
   url: http://www.eatnpark.com/
   logo: eat-n-park.png
+- name: "Eyeglass Shoppe"
+  url: https://www.eyeglassshoppe.net/
+  logo: eyeglass-shoppe.png
 - name: "Latrobe Shop 'n Save'"
   url: https://www.shopnsavefood.com/savings/weekly-ad/1346
   logo: shop-n-save.png
