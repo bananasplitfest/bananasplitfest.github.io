@@ -26,7 +26,8 @@ masthead: 'masthead-entertainment-stages.jpg'
   </thead>
   <tbody>
     <tr>
-      <td>3:00 PM</td><td rowspan="5" class="performance">Marissa Pellis</td>
+      <td>3:00 PM</td><td rowspan="5" class="performance">Marissa Pellis<br />
+      <a href="/entertainment/marissa-pellis/" class="btn btn-info btn-round btn-xs">More...</a></td>
       <td></td>
     </tr>
     <tr>
@@ -47,7 +48,7 @@ masthead: 'masthead-entertainment-stages.jpg'
     </tr>
     <tr>
       <td>6:00 PM</td>
-      <td rowspan="4"  class="performance">String Theory<br />
+      <td rowspan="4"  class="performance">String Theory Band<br />
       <a href="/entertainment/the-string-theory/" class="btn btn-info btn-round btn-xs">More...</a></td>
     </tr>
     <tr>
@@ -171,7 +172,8 @@ masthead: 'masthead-entertainment-stages.jpg'
         <tr>
             <td>7:00 PM</td>
             <td></td>
-            <td rowspan="4" class="performance">The Commonheart</td>
+            <td rowspan="4" class="performance">The Commonheart<br />
+      <a href="/entertainment/the-commonheart/" class="btn btn-info btn-round btn-xs">More...</a></td>
         </tr>
         <tr>
             <td>7:30 PM</td>
