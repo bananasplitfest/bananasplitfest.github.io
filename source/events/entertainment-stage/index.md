@@ -122,7 +122,7 @@ masthead: 'masthead-entertainment-stages.jpg'
         <tr>
             <td>1:30 PM</td>
             <td></td>
-            <td rowspan="2" class="performance">Henry Barchorski</td>
+            <td rowspan="2" class="performance">Henry Bachorski</td>
         </tr>
         <tr>
             <td>2:00 PM</td>
@@ -154,7 +154,8 @@ masthead: 'masthead-entertainment-stages.jpg'
         <tr>
             <td>5:00 PM</td>
             <td></td>
-            <td rowspan="3" class="performance">Derek Woods Band </td>
+            <td rowspan="3" class="performance">Derek Woods Band<br />
+      <a href="/entertainment/derek-woods-band/" class="btn btn-info btn-round btn-xs">More...</a></td>
         </tr>
         <tr>
             <td>5:30 PM</td>

@@ -16,7 +16,8 @@ Stop by Rogers Memorial Park throughout the weekend to join in fun activities fo
 
 + Adams Memorial Library
 + Keystone State Park (1-7pm)
-+ Steel City Greyhounds
++ Victory Lap Greyhound Transport
++ Three Rivers Greyhounds Adoptions
 + KDKA KiDKAst (12-2pm)
 
 ### Sunday
