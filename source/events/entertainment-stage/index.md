@@ -235,7 +235,7 @@ masthead: 'masthead-entertainment-stages.jpg'
         <tr>
             <td>11:30 AM</td>
             <td rowspan="3" class="performance">Barefoot Neighbors<br />
-      <a href="/entertainment/barefoot-neighbors/" class="btn btn-info btn-round btn-xs">More...</a></td>
+      <a href="/entertainment/bearfoot-neighbors/" class="btn btn-info btn-round btn-xs">More...</a></td>
         </tr>
         <tr>
             <td>12:00 PM</td>
