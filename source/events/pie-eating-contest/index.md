@@ -6,6 +6,7 @@ sponsors:
 - "Eat 'n Park"
 - "Wildcat Championship Belts"
 links:
+    Online Registration: ./register
 masthead: masthead-pie-eating.jpg
 ---
 This year, pie-eaters 18 and older should be sure to participate in the Great American Pie Eating Contest, hosted by Eat n Park! The person who consumes an entire banana cream pie, including the crust, in the shortest amount of time will not only win the admiration of family and friends but also get the opportunity to hold a championship belt above their head, just like WWE and TNA champions do. The contestant will be the 2017 champion and their name will be engraved on the belt. The belt will be on display at the Neighborhood Visitor &amp; Information Center.

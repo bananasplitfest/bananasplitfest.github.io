@@ -100,6 +100,9 @@
 - name: "Latrobe Shop 'n Save'"
   url: https://www.shopnsavefood.com/savings/weekly-ad/1346
   logo: shop-n-save.png
+- name: "Westmoreland County Chamber of Commerce"
+  url: http://www.westmorelandchamber.com/
+  logo: westmoreland-county-chamber.png
 - name: "Second Half Coach"
   url: http://www.thesecondhalfcoach.com/
   logo: second-half-coach.jpg

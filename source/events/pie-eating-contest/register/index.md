@@ -9,10 +9,9 @@ masthead: masthead-pie-eating.jpg
 
 ## Individual Registration
 
-Registration is now closed. Thanks for your interest!
+Participants must be at least 18 years of age.
 
 {% raw %}
-<!--
 <form action="//flipmail.co/api/HN36YPnjfDfkvgFmbulO" method="post">
   <div class="row">
     <div class="col-sm-4">
@@ -67,8 +66,8 @@ Registration is now closed. Thanks for your interest!
     <div class="ripple-container"></div>
   </button>
   </div>
-  <input type="hidden" name="_subject" value="2016 Pie Eating Contest Entry">
-  <input type="hidden" name="_confirmation" value="<b>Thank you!</b> We have received your entry into the 2016 Eat 'n Park <b>Great American Pie Eating Contest</b> presented by Wildcat Belts. The event happens Saturday, August 27th at 11am. You will need to arrive at least a half hour prior.">
+  <input type="hidden" name="_subject" value="2017 Pie Eating Contest Entry">
+  <input type="hidden" name="_confirmation" value="<b>Thank you!</b> We have received your entry into the 2017 Eat 'n Park <b>Great American Pie Eating Contest</b> presented by Wildcat Belts. The event happens Saturday, August 27th at 11am. You will need to arrive at least a half hour prior.">
   <input type="hidden" name="_valid[first-name]" value="required|alpha">
   <input type="hidden" name="_valid[last-name]" value="required|alpha">
   <input type="hidden" name="_valid[email]" value="required|valid_email">
@@ -77,5 +76,4 @@ Registration is now closed. Thanks for your interest!
   <input type="hidden" name="_replyto" value="%email">
   <input type="text" name="_honey" value="" style="display:none">
 </form>
--->
 {% endraw %}
