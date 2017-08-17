@@ -21,6 +21,9 @@ Jump to: [Pre-Celebration Events](#pre-events) | [Friday](#friday) | [Saturday](
     <tr>
       <td>Friday, August 18 - 11:30 AM</td><td><strong>Community Cleanup Day</strong></td><td>Meet at Latrobe City Council</td><td><a href="/cleanup-day" class="btn btn-primary btn-xs">More...</a></td>
     </tr>
+    <tr>
+      <td>TBD</td><td><strong>Fun Day at Caddy Shack</strong></td><td>Donegal, PA</td><td>&nbsp;</td>
+    </tr>
   </tbody>
 </table>
 {% endraw %}
