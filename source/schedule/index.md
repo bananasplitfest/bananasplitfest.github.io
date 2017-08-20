@@ -19,9 +19,6 @@ Jump to: [Pre-Celebration Events](#pre-events) | [Friday](#friday) | [Saturday](
   </thead>
   <tbody>
     <tr>
-      <td>Friday, August 18 - 11:30 AM</td><td><strong>Community Cleanup Day</strong></td><td>Meet at Latrobe City Council</td><td><a href="/cleanup-day" class="btn btn-primary btn-xs">More...</a></td>
-    </tr>
-    <tr>
       <td>TBD</td><td><strong>Fun Day at Caddy Shack</strong></td><td>Donegal, PA</td><td>&nbsp;</td>
     </tr>
   </tbody>
@@ -44,6 +41,9 @@ Jump to: [Pre-Celebration Events](#pre-events) | [Friday](#friday) | [Saturday](
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>12:00 PM</td><td>4:00 PM</td><td><strong>MedExpress Kids Activities</strong></td><td>Rogers Memorial Park</td><td>&nbsp;</td>
+    </tr>
     <tr>
       <td>12:00 PM</td><td>8:00 PM</td><td><strong>Vendors</strong></td><td>Downtown</td><td>&nbsp;</td>
     </tr>
